@@ -1,7 +1,8 @@
-name: PTSD
-originalAuthor: danimalforlife
+title: PTSD
+originalAuthor: Danimalforlife
 description: roro...
 
+assets:
 - name: remastered/map/us/lm10.bar/US_lm10_bar0.dds
   platform: pc
   method: copy
